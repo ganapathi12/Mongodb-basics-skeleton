@@ -1,0 +1,16 @@
+{
+  "name": "mangotube",
+  "version": "1.0.0",
+  "description": "mangodb version of youtube",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Ganapathi",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^9.0.2",
+    "mongoose": "^5.13.3",
+    "nodemon": "^2.0.12"
+  }
+}
